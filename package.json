@@ -1,0 +1,11 @@
+{
+  "name": "template-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "hash-sum": "^1.0.2",
+    "lru-cache": "^4.0.1",
+    "vue-template-compiler": "^2.0.8"
+  }
+}
